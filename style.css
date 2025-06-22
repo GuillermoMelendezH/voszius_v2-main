@@ -1,0 +1,42 @@
+html, body {
+    overflow-x: hidden;
+    max-width: 100%;
+}
+
+.vision, .container, section {
+    margin: 0 auto;
+    max-width: 100%;
+}
+
+
+.vision {
+    background-image: url(static/body/technology.jpg);
+}
+
+.curso-item {
+    cursor: pointer;
+  }
+
+/* Efecto al pasar el mouse sobre la tarjeta */
+.card:hover {
+    background-color: #f8f9fa; /* Cambia el color de fondo */
+    color: #333; /* Cambia el color del texto */
+    border: 2px solid #007bff; /* Cambia el borde */
+    transform: scale(1.05); /* Hace que la tarjeta se agrande un poco */
+    transition: all 0.3s ease-in-out; /* Transición suave */
+  }
+  
+  /* Efecto al pasar el mouse sobre un curso dentro de la tarjeta */
+  .curso-item:hover {
+    background-color: #007bff; /* Fondo azul al pasar el mouse */
+    color: white; /* Texto en blanco */
+    transition: all 0.2s ease-in-out; /* Transición suave */
+  }
+  
+  i.fab {
+    color: white;
+}
+
+
+
+
