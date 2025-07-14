@@ -8,6 +8,17 @@ html, body {
     max-width: 100%;
 }
 
+.style body {
+  background-image: 
+    url('https://cdn.pixabay.com/photo/2017/03/31/23/11/robot-2192617_1280.png'), /* Marca de agua */
+    url('https://static.vecteezy.com/system/resources/previews/002/184/697/non_2x/abstract-blue-circuit-technology-background-free-vector.jpg'); /* Fondo base */
+  background-repeat: repeat, no-repeat;
+  background-position: center center, center center;
+  background-size: 200px, cover;  /* Tamaño de marca de agua y del fondo */
+  background-attachment: fixed;
+  color: white;
+}
+
 
 .vision {
     background-image: url(static/body/technology.jpg);
@@ -32,9 +43,62 @@ html, body {
     color: white; /* Texto en blanco */
     transition: all 0.2s ease-in-out; /* Transición suave */
   }
+
+  .card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+  transition: all 0.3s ease-in-out;
+}
+
+.card-badge {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  background-color: crimson;
+  color: white;
+  font-size: 0.7rem;
+  padding: 5px 8px;
+  border-radius: 5px;
+  z-index: 10;
+}
+
+.whatsapp-float {
+  position: fixed;
+  width: 60px;
+  height: 60px;
+  bottom: 20px;
+  right: 20px;
+  background-color: #25d366;
+  color: white;
+  border-radius: 50%;
+  text-align: center;
+  font-size: 32px;
+  box-shadow: 2px 2px 10px rgba(0,0,0,0.3);
+  z-index: 999;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+}
+.whatsapp-float:hover {
+  background-color: #1ebe57;
+  
+}
+
   
   i.fab {
-    color: white;
+    color: rgb(191, 23, 23);
+}
+.comic-relief-regular {
+  font-family: "Comic Relief", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.comic-relief-bold {
+  font-family: "Comic Relief", system-ui;
+  font-weight: 700;
+  font-style: normal;
 }
 
 

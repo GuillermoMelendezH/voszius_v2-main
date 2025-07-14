@@ -1,46 +1,406 @@
-[
-  {
-    "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_797568-MLA85157176180_052025-F.webp",
-    "nombre": "CRUA Monitor Gamer Curvo 27 pulgadas 180hz",
-    "precio": "$2750.00",
-    "descripcion": "Monitor de computadora de 180 Hz: monitor curvo de 27 pulgadas equipado con alta resolución y frecuencia",
-    "link": "https://www.mercadolibre.com.mx/crua-monitor-gamer-curvo-27-180hz-negro-full-compatible-con-xbox-ps45-nintendo-free-sync-hdr-hdmi/p/MLM22257661?pdp_filters=item_id:MLM3719091886#wid=MLM3719091886&sid=search&is_advertising=true&searchVariation=MLM22257661&backend_model=search-backend&position=1&search_layout=stack&type=pad&tracking_id=9a6ad0b5-d9f7-4cab-8f8b-cb11030f3615&is_advertising=true&ad_domain=VQCATCORE_LST&ad_position=1&ad_click_id=NGE2YmVjMGItNTM4NS00Y2M5LWFmOGQtYjQ1M2ZlNTNlZGUx"
-  },
-  {
-    "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_684260-MLA83235297435_032025-F.webp",
-    "nombre": "2pcs Mouse Inalambrico Computadora Windows Bluetooth Dpi Color Silver+Silver",
-    "precio": "$129.62",
-    "descripcion": "2 Mouse tipo inalambicos con luz",
-    "link": "https://www.mercadolibre.com.mx/2pcs-mouse-inalambrico-computadora-windows-bluetooth-dpi-color-silversilver/p/MLM47337006?pdp_filters=item_id:MLM2263866261#wid=MLM2263866261&sid=search&is_advertising=true&searchVariation=MLM47337006&backend_model=search-backend&position=1&search_layout=stack&type=pad&tracking_id=25e52a6b-cdba-450b-be6c-d2c45682425e&is_advertising=true&ad_domain=VQCATCORE_LST&ad_position=1&ad_click_id=NmM3NGFiMmItOTU3NC00N2E0LWFlZjItYzNhNWNmZGRjNjM5"
-  },
-  {
-    "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_824173-MLA45341007924_032021-F.webp",
-    "nombre": "Teclado alámbrico 920-004422 Ergonómico K120 Color Negro Logitech",
-    "precio": "$258.00",
-    "descripcion": "El teclado alámbrico K120 USB de Logitech es una excelente opción para quienes buscan un dispositivo fiable y funcional para su computadora. ",
-    "link": "https://www.mercadolibre.com.mx/teclado-alambrico-920-004422-ergonomico-k120-color-negro-logitech/p/MLM10001436#polycard_client=search-nordic&searchVariation=MLM10001436&wid=MLM1467485027&position=8&search_layout=grid&type=product&tracking_id=9138579f-9352-4130-852f-7f476892f527&sid=search"
-  },
-  {
-    "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_788046-MLA83305948368_042025-F.webp",
-    "nombre": "Dahua Regulador No Break 1200va 720w DH-PFM350-720-A Ups de 4 tomas con Bateria Respaldo Color Negro",
-    "precio": "$1,835.00",
-    "descripcion": "Dahua UPS interactivo 1200VA/720W DH-PFM350-720-A Rango de voltaje ac 81-145v/Voltaje de Salida 110/120 VAC/Estabilizador de Voltaje AVR/Tamaño Compacto",
-    "link": "https://www.mercadolibre.com.mx/dahua-regulador-no-break-1200va-720w-dh-pfm350-720-a-ups-de-4-tomas-con-bateria-respaldo-color-negro/p/MLM43510375?pdp_filters=item_id:MLM2269734019#wid=MLM2269734019&sid=search&is_advertising=true&searchVariation=MLM43510375&backend_model=search-backend&position=1&search_layout=stack&type=pad&tracking_id=a8554688-e36a-4e60-87b3-18066c284d5b&is_advertising=true&ad_domain=VQCATCORE_LST&ad_position=1&ad_click_id=YjBmZmU4NjYtZjkxZi00OWUzLTk2Y2YtZjMzYjJiYTJiMmJl"
-  },
-  {
-    "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_836491-MLA83090185073_032025-F.webp",
-    "nombre": "Multifuncional Maxify Gx4010 Color Blanco",
-    "precio": "$8,299.00",
-    "descripcion": "Maxify GX4010 cuenta con funcionalidades 4-en-1: impresión, copia, escaneo y fax",
-    "link": "https://www.mercadolibre.com.mx/multifuncional-maxify-gx4010-color-blanco/p/MLM47182144?pdp_filters=item_id:MLM3666701900#wid=MLM3666701900&sid=search&is_advertising=true&searchVariation=MLM47182144&backend_model=search-backend&position=1&search_layout=stack&type=pad&tracking_id=7bf4df03-6104-4316-b155-d55e3d2707fe&is_advertising=true&ad_domain=VQCATCORE_LST&ad_position=1&ad_click_id=YmJhZjAwMDUtYTI4OS00NGIyLWJlOWYtOWVmYjc5MjYxMmYw"
-  },
-  {
-    "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_609597-MLA80792729144_112024-F.webp",
-    "nombre": "Hp Laptop 15.6 Touch Screen,core I7, 16gb Ram, 512gb Win 11 Color Plateado",
-    "precio": "$12,818.00",
-    "descripcion": "Hp Laptop 15.6 Touch Screen,core I7, 16gb Ram, 512gb",
-    "link": "https://www.mercadolibre.com.mx/hp-laptop-156-touch-screencore-i7-16gb-ram-512gb-win-11-color-plateado/p/MLM44189627?pdp_filters=item_id:MLM3572495952#wid=MLM3572495952&sid=search&is_advertising=true&searchVariation=MLM44189627&backend_model=search-backend&position=1&search_layout=stack&type=pad&tracking_id=94fefd49-0238-4f8b-9679-871ede83bf64&is_advertising=true&ad_domain=VQCATCORE_LST&ad_position=1&ad_click_id=ZDBlOTVlYjktY2NmMC00NzRhLThjNTItOTBmODE4NTQ0MWI1"
-  }
-]
+{
+  "computadoras": [
+    {
+      "id": "comp1",
+      "nombre": "Laptop Gamer",
+      "precio": "$28,999",
+      "descripcion": "Laptop con procesador Ryzen 7, 16GB RAM, SSD 512GB y GPU RTX 3060.\n\n este es un salto de linea",
+      "imagenPrincipal": "https://http2.mlstatic.com/D_NQ_NP_2X_752815-MLA85374838631_052025-F.webp",
+      "imagenesExtras": [
+        "https://http2.mlstatic.com/D_NQ_NP_2X_784773-MLA85374753123_052025-F.webp",
+        "https://http2.mlstatic.com/D_NQ_NP_2X_857214-MLA85374800995_052025-F.webp",
+        "https://http2.mlstatic.com/D_NQ_NP_2X_614655-MLA85072700672_052025-F.webp"
+      ],
+      "linkCompra": "https://www.mercadolibre.com.mx/asus-gamer-ultra-core-7-155h-16-nucleos-16-gb-ram-1-tb-ssd-pantalla-156-oled-2k-con-alta-definicion-de-colores-laptop-vivobook/p/MLM50629877#polycard_client=search-nordic&searchVariation=MLM50629877&backend_model=search-backend&wid=MLM2326216191&position=2&search_layout=stack&type=product&tracking_id=7cff33b5-ef86-43ac-8558-e82a8ffaf5cb&sid=search"
+    },
+    {
+      "id": "comp2",
+      "nombre": "MacBook Air M2",
+      "precio": "$24,999",
+      "descripcion": "Ligera, potente y con chip M2 de Apple.",
+      "imagenPrincipal": "https://http2.mlstatic.com/D_NQ_NP_2X_637313-MLA51356401031_082022-F.webp",
+      "imagenesExtras": [
+        "https://http2.mlstatic.com/D_NQ_NP_2X_797680-MLA51356381245_082022-F.webp",
+        "https://http2.mlstatic.com/D_NQ_NP_2X_865789-MLA51356236970_082022-F.webp",
+        "https://http2.mlstatic.com/D_NQ_NP_2X_604604-MLA51356381315_082022-F.webp"
+      ],
+      "linkCompra": "https://www.mercadolibre.com.mx/macbook-air-m2-2022-136-space-gray-8gb-de-ram-256gb-ssd-apple-m/p/MLM19563444#polycard_client=search-nordic&searchVariation=MLM19563444&wid=MLM3714762750&position=5&search_layout=stack&type=product&tracking_id=fc3a1b3c-cb5e-4476-afb6-ed6d48b5b0f7&sid=search"
+    },
+    {
+      "id": "comp3",
+      "nombre": "Lenovo Thinkpad",
+      "precio": "$10,999",
+      "descripcion": "computadora portátil ideal para profesionales que demandan potencia y eficiencia",
+      "imagenPrincipal": "https://http2.mlstatic.com/D_NQ_NP_2X_850984-MLM86388172946_062025-F-lenovo-thinkpad-p1-gen-3-intel-i7-10850-32g-1tb-156-win11.webp",
+      "imagenesExtras": [
+        "https://http2.mlstatic.com/D_NQ_NP_2X_742504-MLM86387974460_062025-F-lenovo-thinkpad-p1-gen-3-intel-i7-10850-32g-1tb-156-win11.webp",
+        "https://http2.mlstatic.com/D_NQ_NP_2X_728085-MLM86388023864_062025-F-lenovo-thinkpad-p1-gen-3-intel-i7-10850-32g-1tb-156-win11.webp",
+        "https://http2.mlstatic.com/D_NQ_NP_2X_680591-MLM86388172948_062025-F-lenovo-thinkpad-p1-gen-3-intel-i7-10850-32g-1tb-156-win11.webp"
+      ],
+      "linkCompra": "https://articulo.mercadolibre.com.mx/MLM-3772393356-lenovo-thinkpad-p1-gen-3-intel-i7-10850-32g-1tb-156-win11-_JM#polycard_client=search-nordic&position=15&search_layout=stack&type=item&tracking_id=1d329987-29fc-4bd7-ab87-48c88d4c7205&wid=MLM3772393356&sid=search"
+    },
+    {
+      "id": "comp4",
+      "nombre": "Laptop Dell",
+      "precio": "$25,900",
+      "descripcion": "una laptop empresarial de alto rendimiento equipada con el potente procesador Intel Core i7-155U de última generación",
+      "imagenPrincipal": "https://http2.mlstatic.com/D_NQ_NP_2X_752613-MLA80571228422_112024-F.webp",
+      "imagenesExtras": [
+        "https://http2.mlstatic.com/D_NQ_NP_2X_936019-MLA80833251837_112024-F.webp",
+        "https://http2.mlstatic.com/D_NQ_NP_2X_778931-MLA80833507141_112024-F.webp",
+        "https://http2.mlstatic.com/D_NQ_NP_2X_828887-MLA80833321297_112024-F.webp"
+      ],
+      "linkCompra": "https://www.mercadolibre.com.mx/laptop-dell-latitude-5550-intel-ultra-ci7-155u-16-512-w11pro-color-gris/p/MLM43469834?pdp_filters=item_id:MLM3471255268#wid=MLM3471255268&sid=search&is_advertising=true&searchVariation=MLM43469834&backend_model=search-backend&position=1&search_layout=stack&type=pad&tracking_id=a3af11e1-e385-4a09-ae68-24795ef0bc71&is_advertising=true&ad_domain=VQCATCORE_LST&ad_position=1&ad_click_id=M2U0ZTJhMGEtNDFhNi00MzdjLWFiODQtYmIyMTkwNTAyNGQw"
+    },
+    {
+      "id": "comp5",
+      "nombre": "HP Pavilion",
+      "precio": "$22,240",
+      "descripcion": "Gran productividad. Potencia tus ideas con el último procesador AMD Ryzen™",
+      "imagenPrincipal": "https://http2.mlstatic.com/D_NQ_NP_2X_786475-MLU77658196599_072024-F.webp",
+      "imagenesExtras": [
+        "https://http2.mlstatic.com/D_NQ_NP_2X_997687-MLU77658196627_072024-F.webp",
+        "https://http2.mlstatic.com/D_NQ_NP_2X_921410-MLU77658079703_072024-F.webp",
+        "https://http2.mlstatic.com/D_NQ_NP_2X_804718-MLU77658079757_072024-F.webp"
+      ],
+      "linkCompra": "https://www.mercadolibre.com.mx/hp-pavilion-laptop-13-bg0000la-amd-ryzen-716gb-ram1tb-ssd/p/MLM37554701#polycard_client=search-nordic&searchVariation=MLM37554701&wid=MLM2085711175&position=3&search_layout=stack&type=product&tracking_id=84130af9-b8cc-4487-b47d-a9db2d53c343&sid=search"
+    },
+    {
+      "id": "comp6",
+      "nombre": "Laptop HP",
+      "precio": "$22,240",
+      "descripcion": "Gran productividad. Potencia tus ideas con el último procesador AMD Ryzen™",
+      "imagenPrincipal": "https://http2.mlstatic.com/D_NQ_NP_2X_786475-MLU77658196599_072024-F.webp",
+      "imagenesExtras": [
+        "https://http2.mlstatic.com/D_NQ_NP_2X_997687-MLU77658196627_072024-F.webp",
+        "https://http2.mlstatic.com/D_NQ_NP_2X_921410-MLU77658079703_072024-F.webp",
+        "https://http2.mlstatic.com/D_NQ_NP_2X_804718-MLU77658079757_072024-F.webp"
+      ],
+      "linkCompra": "https://www.mercadolibre.com.mx/hp-pavilion-laptop-13-bg0000la-amd-ryzen-716gb-ram1tb-ssd/p/MLM37554701#polycard_client=search-nordic&searchVariation=MLM37554701&wid=MLM2085711175&position=3&search_layout=stack&type=product&tracking_id=84130af9-b8cc-4487-b47d-a9db2d53c343&sid=search"
+    }
+  ],
 
-  
+  "almacenamiento": [
+    {
+      "id": "alm1",
+      "nombre": "Hard Drive",
+      "precio": "$1,529",
+      "descripcion": "Disco externo USB 3.0 ideal para respaldos.",
+      "imagenPrincipal": "https://http2.mlstatic.com/D_NQ_NP_2X_860831-MCO46587013476_072021-F.webp",
+      "imagenesExtras": [
+        "https://http2.mlstatic.com/D_NQ_NP_2X_849301-MLA83022054127_032025-F.webp",
+        "https://http2.mlstatic.com/D_NQ_NP_2X_802510-MLA83022938411_032025-F.webp",
+        "https://http2.mlstatic.com/D_NQ_NP_2X_626167-MLA83022034287_032025-F.webp"
+      ],
+      "linkCompra": "https://www.mercadolibre.com.mx/seagate-portable-2tb-external-hard-drive-portable-hdd-color-negro/p/MLM21710812?pdp_filters=item_id:MLM2509536342#wid=MLM2509536342&sid=search&is_advertising=true&searchVariation=MLM21710812&backend_model=search-backend&position=1&search_layout=stack&type=pad&tracking_id=cd121f73-3d15-43a5-bbf8-7888f1e1eb56&is_advertising=true&ad_domain=VQCATCORE_LST&ad_position=1&ad_click_id=NWM1YjA1Y2QtMWYzNy00NjMwLWJmNDktZmM2NTliYmIzYWFi"
+    },
+    {
+      "id": "alm2",
+      "nombre": "Memoria Usb",
+      "precio": "$2,238",
+      "descripcion": "Este pendrive te permitirá almacenar hasta 8 GB para que guardes tus archivos indispensables.",
+      "imagenPrincipal": "https://http2.mlstatic.com/D_NQ_NP_2X_782480-MLU70660348907_072023-F.webp",
+      "imagenesExtras": [
+        "https://http2.mlstatic.com/D_NQ_NP_2X_796884-MLU73661667895_122023-F.webp",
+        "https://http2.mlstatic.com/D_NQ_NP_2X_735857-MLA79490993804_102024-F.webp",
+        "https://http2.mlstatic.com/D_NQ_NP_2X_836186-MLU73661716547_122023-F.webp"
+      ],
+      "linkCompra": "https://www.mercadolibre.com.mx/p/MLM24824893?pdp_filters=item_id:MLM1948058129#cart_referer=item#source=shopping_cart"
+    },
+    {
+      "id": "alm3",
+      "nombre": "Disco Duro",
+      "precio": "$320",
+      "descripcion": "Diseño inteligente y súper compatibilidad: esta unidad de estado sólido externa es fácilmente compatible con mac, WIN7/8/8.1/10, Android, etc.",
+      "imagenPrincipal": "https://http2.mlstatic.com/D_NQ_NP_2X_686051-MLU78211661001_082024-F.webp",
+      "imagenesExtras": [
+        "https://http2.mlstatic.com/D_NQ_NP_2X_853197-MLU78211522743_082024-F.webp",
+        "https://http2.mlstatic.com/D_NQ_NP_2X_877063-MLU78211918159_082024-F.webp",
+        "https://http2.mlstatic.com/D_NQ_NP_2X_986080-MLU77987268476_082024-F.webp"
+      ],
+      "linkCompra": "https://www.mercadolibre.com.mx/externo-disco-duro-ssd-2tb-vrcow-2000gb-solido-mini-portatil-negro/p/MLM34172886?pdp_filters=item_id:MLM3787931250#wid=MLM3787931250&sid=search&is_advertising=true&searchVariation=MLM34172886&backend_model=search-backend&position=1&search_layout=stack&type=pad&tracking_id=f0172e7f-6b06-4a3a-afd1-5e83c68d4004&is_advertising=true&ad_domain=VQCATCORE_LST&ad_position=1&ad_click_id=ZTBlMjg1Y2EtZTFjNy00Zjg5LTkxMGQtMTE0OWEyODA4ODE4"
+    },
+    {
+      "id": "alm4",
+      "nombre": "Disco Duro",
+      "precio": "$4,583",
+      "descripcion": "Este disco transfiere datos a través de una interfaz USB 3.2 Gen 2, lo que te brindará trasmitir una mayor cantidad de información.",
+      "imagenPrincipal": "https://http2.mlstatic.com/D_NQ_NP_2X_655087-MLA79636768441_092024-F.webp",
+      "imagenesExtras": [
+        "https://http2.mlstatic.com/D_NQ_NP_2X_740157-MLA83737888094_042025-F.webp",
+        "https://http2.mlstatic.com/D_NQ_NP_2X_924994-MLA83738014848_042025-F.webp",
+        "https://http2.mlstatic.com/D_NQ_NP_2X_851824-MLA83737653484_042025-F.webp"
+      ],
+      "linkCompra": "https://www.mercadolibre.com.mx/disco-duro-externo-unionsine-3510-10-tb-usb-32-gen-2-hdd-negro/p/MLM41287842?pdp_filters=item_id:MLM3461944708#wid=MLM3461944708&sid=search&is_advertising=true&searchVariation=MLM41287842&backend_model=search-backend&position=2&search_layout=stack&type=pad&tracking_id=a4ade5df-ef82-4e6b-9c76-6b32a0088185&is_advertising=true&ad_domain=VQCATCORE_LST&ad_position=2&ad_click_id=Nzk5M2M5NTQtYzRiNi00NWI4LTg3MWQtNTMzMjAzMDU0YzI3"
+    },
+    {
+      "id": "alm5",
+      "nombre": "Disco Unionsine",
+      "precio": "$5,235",
+      "descripcion": "Exquisito disco duro externo de escritorio horizontal, la velocidad de transferencia de alta velocidad se utiliza fácilmente para la oficina de PC.",
+      "imagenPrincipal": "https://http2.mlstatic.com/D_NQ_NP_2X_799336-CBT75056559252_032024-F-disco-duro-externo-unionsine-14-tb-usb-32-gen-2-hdd-storage.webp",
+      "imagenesExtras": [
+        "https://http2.mlstatic.com/D_NQ_NP_2X_780490-CBT75056559256_032024-F-disco-duro-externo-unionsine-14-tb-usb-32-gen-2-hdd-storage.webp",
+        "https://http2.mlstatic.com/D_NQ_NP_2X_678018-CBT75056559248_032024-F-disco-duro-externo-unionsine-14-tb-usb-32-gen-2-hdd-storage.webp",
+        "https://http2.mlstatic.com/D_NQ_NP_2X_956800-CBT75056559258_032024-F-disco-duro-externo-unionsine-14-tb-usb-32-gen-2-hdd-storage.webp"
+      ],
+      "linkCompra": "https://articulo.mercadolibre.com.mx/MLM-2949588502-disco-duro-externo-unionsine-14-tb-usb-32-gen-2-hdd-storage-_JM#polycard_client=recommendations_pdp-v2p&reco_backend=ranker_retrieval_online_vpp_v2p&reco_model=coldstart_high_exposition%2C+coldstart_low_exposition%2C+rk_online_v2_retsys_vpp_v2p&reco_client=pdp-v2p&reco_item_pos=1&reco_backend_type=low_level&reco_id=d1c19299-39e5-4e62-8f63-c2f41f2aae5c"
+    },
+    {
+      "id": "alm6",
+      "nombre": "Memoria Flash",
+      "precio": "$178",
+      "descripcion": "Memoria Flash Usb 4tb(4000gb) Tipo C/usb C Parateléfono",
+      "imagenPrincipal": "https://http2.mlstatic.com/D_NQ_NP_2X_732762-MLM85426018227_052025-F-memoria-flash-usb-4tb4000gb-tipo-cusb-c-paratelefono.webp",
+      "imagenesExtras": [
+        "https://http2.mlstatic.com/D_NQ_NP_2X_945135-MLM85123208400_052025-F-memoria-flash-usb-4tb4000gb-tipo-cusb-c-paratelefono.webp",
+        "https://http2.mlstatic.com/D_NQ_NP_2X_656999-MLM85123188338_052025-F-memoria-flash-usb-4tb4000gb-tipo-cusb-c-paratelefono.webp",
+        "https://http2.mlstatic.com/D_NQ_NP_2X_812285-MLM85425594145_052025-F-memoria-flash-usb-4tb4000gb-tipo-cusb-c-paratelefono.webp"
+      ],
+      "linkCompra": "https://articulo.mercadolibre.com.mx/MLM-3719083728-memoria-flash-usb-4tb4000gb-tipo-cusb-c-paratelefono-_JM?searchVariation=188184052659#polycard_client=search-nordic&searchVariation=188184052659&position=50&search_layout=stack&type=item&tracking_id=74a4cf39-7034-47f0-b15f-16d999f43e15"
+    }
+  ],
+
+  "sillas": [
+    {
+      "id": "silla1",
+      "nombre": "Silla Gamer",
+      "precio": "$5,062",
+      "descripcion": "Ergonómica, reclinable y con soporte lumbar.",
+      "imagenPrincipal": "https://http2.mlstatic.com/D_NQ_NP_2X_786412-MLA85938786323_062025-F.webp",
+      "imagenesExtras": [
+        "https://http2.mlstatic.com/D_NQ_NP_2X_920988-MLA84561517398_052025-F.webp",
+        "https://http2.mlstatic.com/D_NQ_NP_2X_943372-MLA84561517402_052025-F.webp",
+        "https://http2.mlstatic.com/D_NQ_NP_2X_936160-MLA84859730755_052025-F.webp"
+      ],
+      "linkCompra": "https://www.mercadolibre.com.mx/silla-gamer-redragon-capricornus-c502-br-color-negro/p/MLM17797815#polycard_client=search-nordic&searchVariation=MLM17797815&wid=MLM1336386155&position=2&search_layout=stack&type=product&tracking_id=18133dd8-ae84-4deb-b3b4-9dfd3ea96fe1&sid=search"
+    },
+    {
+      "id": "silla2",
+      "nombre": "Silla de escritorio",
+      "precio": "$689",
+      "descripcion": "Comoda, ergonómica, con tapizado de malla transpirable.",
+      "imagenPrincipal": "https://http2.mlstatic.com/D_NQ_NP_2X_956333-MLA80826429047_112024-F.webp",
+      "imagenesExtras": [
+        "https://http2.mlstatic.com/D_NQ_NP_2X_813294-MLA80826429049_112024-F.webp",
+        "https://http2.mlstatic.com/D_NQ_NP_2X_866992-MLA80564082756_112024-F.webp",
+        "https://http2.mlstatic.com/D_NQ_NP_2X_927682-MLA80564111776_112024-F.webp"
+      ],
+      "linkCompra": "https://www.mercadolibre.com.mx/silla-de-escritorio-cuory-cuosorm3-ergonomica-negra-con-tapizado-de-malla-transpirable/p/MLM43439636?pdp_filters=item_id:MLM3782745690#wid=MLM3782745690&sid=search&is_advertising=true&searchVariation=MLM43439636&backend_model=search-backend&position=1&search_layout=grid&type=pad&tracking_id=7015bfbb-02a5-4ea6-aba2-b7a2b72215af&is_advertising=true&ad_domain=VQCATCORE_LST&ad_position=1&ad_click_id=ZWJmMDQ1MjQtZDAwNy00Yjk4LTk5NzMtOTMyODdlZmZmNGM5"
+    },
+    {
+      "id": "silla3",
+      "nombre": "Silla Oficina",
+      "precio": "$1,644",
+      "descripcion": "Esta es una silla que puede mantenerse al día con los cambios en el espacio, haciendo que el espacio sea más espacioso.",
+      "imagenPrincipal": "https://http2.mlstatic.com/D_NQ_NP_2X_705802-MLM83839584596_042025-F.webp",
+      "imagenesExtras": [
+        "https://http2.mlstatic.com/D_NQ_NP_2X_895083-MLM84134096997_042025-F.webp",
+        "https://http2.mlstatic.com/D_NQ_NP_2X_841452-MLM84134097035_042025-F.webp",
+        "https://http2.mlstatic.com/D_NQ_NP_2X_991661-MLM84133792619_042025-F.webp"
+      ],
+      "linkCompra": "https://www.mercadolibre.com.mx/silla-oficina-escritorio-ergonomica-con-soporte-lumbar-gira/up/MLMU3143665090?pdp_filters=item_id:MLM3654068910#wid=MLM3654068910&sid=search&is_advertising=true&searchVariation=MLMU3143665090&backend_model=search-backend&position=10&search_layout=grid&type=pad&tracking_id=0f6698a0-3cf7-4930-9de1-f858a0186fa2"
+    },
+    {
+      "id": "silla4",
+      "nombre": "Silla Ejecutiva",
+      "precio": "$2,029",
+      "descripcion": "Silla de oficina con cojín de espuma, para mayor comodidad y apoyo.",
+      "imagenPrincipal": "https://http2.mlstatic.com/D_NQ_NP_2X_819754-MLA80504221063_112024-F.webp",
+      "imagenesExtras": [
+        "https://http2.mlstatic.com/D_NQ_NP_2X_613403-MLA80247051590_112024-F.webp",
+        "https://http2.mlstatic.com/D_NQ_NP_2X_680122-MLU74860361409_032024-F.webp",
+        "https://http2.mlstatic.com/D_NQ_NP_2X_995902-MLU74442792557_022024-F.webp"
+      ],
+      "linkCompra": "https://www.mercadolibre.com.mx/silla-escritorio-ejecutiva-ergonomica-ajustable-reclinable-resee-presidencial-negro/p/MLM24542431?searchVariation=MLM24542431#polycard_client=search-nordic&searchVariation=MLM24542431&wid=MLM2178231635&position=7&search_layout=grid&type=product&tracking_id=96c35040-b54f-48be-819f-e71cda63e1c0&sid=search"
+    },
+    {
+      "id": "silla5",
+      "nombre": "Silla Oficina",
+      "precio": "$3,398",
+      "descripcion": "El diseño ergonómico asegura un soporte óptimo para tu espalda durante largas sesiones de juego o trabajo.",
+      "imagenPrincipal": "https://http2.mlstatic.com/D_NQ_NP_2X_692569-MLM85005788124_052025-F-silla-escritorio-oficina-ejecutiva-ergonomica-con-reposapies.webp",
+      "imagenesExtras": [
+        "https://http2.mlstatic.com/D_NQ_NP_2X_633320-MLM86152396570_062025-F-silla-escritorio-oficina-ejecutiva-ergonomica-con-reposapies.webp",
+        "https://http2.mlstatic.com/D_NQ_NP_2X_779808-MLM86152495994_062025-F-silla-escritorio-oficina-ejecutiva-ergonomica-con-reposapies.webp",
+        "https://http2.mlstatic.com/D_NQ_NP_2X_647058-MLM86468460395_062025-F-silla-escritorio-oficina-ejecutiva-ergonomica-con-reposapies.webp"
+      ],
+      "linkCompra": "https://articulo.mercadolibre.com.mx/MLM-1998597003-silla-escritorio-oficina-ejecutiva-ergonomica-con-reposapies-_JM#polycard_client=recommendations_pdp-pads-reviews&reco_backend=recos-pads-retrieval-4stars&reco_model=rk_ent_v2_retsys_4stars&reco_client=pdp-pads-reviews&reco_item_pos=1&reco_backend_type=low_level&reco_id=361cb71e-ce21-4fd9-b0f7-e912142ade7c&is_advertising=true&ad_domain=PDPDESKTOP_RECOMMENDED&ad_position=2&ad_click_id=MTEzZWFjYWMtODUwOS00MzI0LTk0YjAtZTFkNDY3M2M4ODRk"
+    },
+    {
+      "id": "silla6",
+      "nombre": "Silla",
+      "precio": "$689",
+      "descripcion": "Silla de escritorio OLU M4-2 ergonómica negra con tapizado de malla",
+      "imagenPrincipal": "https://http2.mlstatic.com/D_NQ_NP_2X_679612-MLA74070985942_012024-F.webp",
+      "imagenesExtras": [
+        "https://http2.mlstatic.com/D_NQ_NP_2X_784904-MLA74071005110_012024-F.webp",
+        "https://http2.mlstatic.com/D_NQ_NP_2X_951028-MLA74526632826_022024-F.webp",
+        "https://http2.mlstatic.com/D_NQ_NP_2X_916694-MLU79078277483_092024-F.webp"
+      ],
+      "linkCompra": "https://www.mercadolibre.com.mx/silla-de-escritorio-olu-m4-2-ergonomica-negra-con-tapizado-de-malla/p/MLM29809393?pdp_filters=item_id:MLM2022348397#wid=MLM2022348397&sid=search&is_advertising=true&searchVariation=MLM29809393&backend_model=search-backend&position=3&search_layout=grid&type=pad&tracking_id=0cc55240-8c26-4c7a-a4c5-166cab5bb57c&is_advertising=true&ad_domain=VQCATCORE_LST&ad_position=3&ad_click_id=NTExMmJmODQtNjBmYS00YjM2LTg4YTMtYjBhYzE2MjAwYzc2"
+    }
+  ],
+
+  "escritorios": [
+    {
+      "id": "desk1",
+      "nombre": "Escritorio",
+      "precio": "$849",
+      "descripcion": "Aprovecha al máximo tus ambientes con este escritorio industrial, ideal para montar tu espacio de home office.",
+      "imagenPrincipal": "https://http2.mlstatic.com/D_NQ_NP_2X_869799-MLA86801012249_062025-F.webp",
+      "imagenesExtras": [
+        "https://http2.mlstatic.com/D_NQ_NP_2X_930284-MLU77010102381_062024-F.webp",
+        "https://http2.mlstatic.com/D_NQ_NP_2X_618991-MLA86801012257_062025-F.webp",
+        "https://http2.mlstatic.com/D_NQ_NP_2X_977853-MLU74246698117_012024-F.webp"
+      ],
+      "linkCompra": "https://www.mercadolibre.com.mx/escritorio-top-living-desk-3-de-12-m-por-75-cm-por-60-cm-color-madera-cafe-claro/p/MLM15549905?pdp_filters=item_id:MLM1380582037#wid=MLM1380582037&sid=search&is_advertising=true&searchVariation=MLM15549905&backend_model=search-backend&position=3&search_layout=grid&type=pad&tracking_id=9708a5b3-c06e-4ee8-a1c1-c12244a21504&is_advertising=true&ad_domain=VQCATCORE_LST&ad_position=3&ad_click_id=NjdjZjFiMmUtMzA1MS00ZjAyLTllODMtZjk0YzdhZGYwNDA3"
+    },
+    {
+      "id": "desk2",
+      "nombre": "Escritorio",
+      "precio": "$4,499",
+      "descripcion": "El Escritorio Elevable Eléctrico Minimalista OneHome es la solución perfecta para quienes buscan un espacio de trabajo moderno y funcional.",
+      "imagenPrincipal": "https://http2.mlstatic.com/D_NQ_NP_2X_938372-MLA81090397562_122024-F.webp",
+      "imagenesExtras": [
+        "https://http2.mlstatic.com/D_NQ_NP_2X_915403-MLA81090329158_122024-F.webp",
+        "https://http2.mlstatic.com/D_NQ_NP_2X_661742-MLA81090377682_122024-F.webp",
+        "https://http2.mlstatic.com/D_NQ_NP_2X_795351-MLA81090397606_122024-F.webp"
+      ],
+      "linkCompra": "https://www.mercadolibre.com.mx/escritorio-elevable-electrico-minimalista-onehome-con-cajon-extraiblecolornegro/p/MLM44701838?searchVariation=MLM44701838#polycard_client=search-nordic&searchVariation=MLM44701838&wid=MLM2204996523&position=2&search_layout=grid&type=product&tracking_id=2dc2ff59-1852-4133-9643-764cd79d0913&sid=search"
+    },
+    {
+      "id": "desk3",
+      "nombre": "Escritorio",
+      "precio": "$2,561",
+      "descripcion": "Este escritorio oficina con altura regulable 72-120CM es una excelente opción para aquellos que desean una solución ergonómica y funcional para su espacio de trabajo.",
+      "imagenPrincipal": "https://http2.mlstatic.com/D_NQ_NP_2X_940839-MLM78049577591_072024-F-escritorio-electric-kinkunco-de-oficina-ajustable-en-altura.webp",
+      "imagenesExtras": [
+        "https://http2.mlstatic.com/D_NQ_NP_2X_678251-MLM78049577573_072024-F-escritorio-electric-kinkunco-de-oficina-ajustable-en-altura.webp",
+        "https://http2.mlstatic.com/D_NQ_NP_2X_664040-MLM78049685779_072024-F-escritorio-electric-kinkunco-de-oficina-ajustable-en-altura.webp",
+        "https://http2.mlstatic.com/D_NQ_NP_2X_678251-MLM78049577573_072024-F-escritorio-electric-kinkunco-de-oficina-ajustable-en-altura.webp"
+      ],
+      "linkCompra": "https://articulo.mercadolibre.com.mx/MLM-2346183341-escritorio-electric-kinkunco-de-oficina-ajustable-en-altura-_JM#polycard_client=recommendations_pdp-pads-up&reco_backend=pdp_pads_up_merge_rars_v2_with_default&reco_client=pdp-pads-up&reco_item_pos=0&reco_backend_type=low_level&reco_id=1deb2e37-597e-4b1b-a150-ed2609b9355e&is_advertising=true&ad_domain=PDPDESKTOP_UP&ad_position=1&ad_click_id=MzUxNzJjMDYtY2EzOS00MzYxLWJhM2QtOGZjOWMxMWVkMDBm"
+    },
+    {
+      "id": "desk4",
+      "nombre": "Escritorio",
+      "precio": "$1,979",
+      "descripcion": "Este modelo sobresale por su diseño moderno y minimalista ideales para una decoración actualizada.",
+      "imagenPrincipal": "https://http2.mlstatic.com/D_NQ_NP_2X_693570-MLM82022984382_022025-F-escritorio-moderno-con-cajoneras-120x60x75cm-para-oficina.webp",
+      "imagenesExtras": [
+        "https://http2.mlstatic.com/D_NQ_NP_2X_811647-MLM82022984354_022025-F-escritorio-moderno-con-cajoneras-120x60x75cm-para-oficina.webp",
+        "https://http2.mlstatic.com/D_NQ_NP_2X_657400-MLM82023152600_022025-F-escritorio-moderno-con-cajoneras-120x60x75cm-para-oficina.webp",
+        "https://http2.mlstatic.com/D_NQ_NP_2X_672733-MLM82022984356_022025-F-escritorio-moderno-con-cajoneras-120x60x75cm-para-oficina.webp"
+      ],
+      "linkCompra": "https://articulo.mercadolibre.com.mx/MLM-3554238238-escritorio-moderno-con-cajoneras-120x60x75cm-para-oficina-_JM#polycard_client=recommendations_vip-pads-up&reco_backend=vip-pads-up-experimental-a_marketplace&reco_model=rk_ent_v2_retsys_ads&reco_client=vip-pads-up&reco_item_pos=2&reco_backend_type=low_level&reco_id=166d008a-2c6a-40e9-9544-df62e974170b&is_advertising=true&ad_domain=VIPDESKTOP_UP&ad_position=3&ad_click_id=ZjliZTc5ZjItOTY5Ny00NTJjLWIwMjEtZjg0YmU1MzJhN2Yx"
+    },
+    {
+      "id": "desk5",
+      "nombre": "Mesa",
+      "precio": "$1,710",
+      "descripcion": "Mesa Fabricada en MDF de alta densidad, esta mesa es resistente a los arañazos, impermeable y fácil de limpiar.",
+      "imagenPrincipal": "https://http2.mlstatic.com/D_NQ_NP_2X_845305-MLM84504887047_052025-F-escritorio-in-cajon-mesa-computadora-escritorio-con-librero.webp",
+      "imagenesExtras": [
+        "https://http2.mlstatic.com/D_NQ_NP_2X_651844-MLM84256927145_052025-F-escritorio-in-cajon-mesa-computadora-escritorio-con-librero.webp",
+        "https://http2.mlstatic.com/D_NQ_NP_2X_955898-MLM83961857144_052025-F-escritorio-in-cajon-mesa-computadora-escritorio-con-librero.webp",
+        "https://http2.mlstatic.com/D_NQ_NP_2X_774730-MLM83961857148_052025-F-escritorio-in-cajon-mesa-computadora-escritorio-con-librero.webp"
+      ],
+      "linkCompra": "https://articulo.mercadolibre.com.mx/MLM-3670022994-escritorio-in-cajon-mesa-computadora-escritorio-con-librero-_JM#polycard_client=recommendations_vip-v2p&reco_backend=ranker_retrieval_online_vpp_v2p&reco_model=coldstart_low_exposition%2C+coldstart_high_exposition%2C+rk_online_v2_retsys_vpp_v2p&reco_client=vip-v2p&reco_item_pos=5&reco_backend_type=low_level&reco_id=f9f230f9-a673-4920-83a2-6b7838883a99"
+    },
+    {
+      "id": "desk6",
+      "nombre": "Escritorio",
+      "precio": "$1,293",
+      "descripcion": "Escritorio Homeoffice Estudiantil Profesional Envío Gratis",
+      "imagenPrincipal": "https://http2.mlstatic.com/D_NQ_NP_2X_898698-MLM45865159332_052021-F-escritorio-homeoffice-estudiantil-profesional-envio-gratis.webp",
+      "imagenesExtras": [
+        "https://http2.mlstatic.com/D_NQ_NP_2X_797589-MLM53367496625_012023-F-escritorio-homeoffice-estudiantil-profesional-envio-gratis.webp",
+        "https://http2.mlstatic.com/D_NQ_NP_2X_743246-MLM54203501424_032023-F-escritorio-homeoffice-estudiantil-profesional-envio-gratis.webp",
+        "https://http2.mlstatic.com/D_NQ_NP_2X_726676-MLM54203547400_032023-F-escritorio-homeoffice-estudiantil-profesional-envio-gratis.webp"
+      ],
+      "linkCompra": "https://articulo.mercadolibre.com.mx/MLM-901333343-escritorio-homeoffice-estudiantil-profesional-envio-gratis-_JM?searchVariation=84054626770#is_advertising=true&searchVariation=84054626770&backend_model=search-backend&position=3&search_layout=grid&type=pad&tracking_id=7e78273d-cfe5-4a2f-ae91-889ab9bdebac&is_advertising=true&ad_domain=VQCATCORE_LST&ad_position=3&ad_click_id=MzIyOGRiYjQtZWVkZC00NmY4LTlkY2UtMzhiYzA2OTVkMGQ1"
+    }
+  ],
+
+  "gadgets": [
+    {
+      "id": "gadget1",
+      "nombre": "Xiaomi Redmi",
+      "precio": "$623",
+      "descripcion": "Experiencia de llamadas clara con la ayuda de la mejor cancelación de ruido del segmento en tu muñeca..",
+      "imagenPrincipal": "https://http2.mlstatic.com/D_NQ_NP_2X_906310-MLA82183109862_022025-F.webp",
+      "imagenesExtras": [
+        "https://http2.mlstatic.com/D_NQ_NP_2X_803944-MLA82183109848_022025-F.webp",
+        "https://http2.mlstatic.com/D_NQ_NP_2X_888290-MLA84468011902_052025-F.webp",
+        "https://http2.mlstatic.com/D_NQ_NP_2X_978278-MLA84765913247_052025-F.webp"
+      ],
+      "linkCompra": "https://www.mercadolibre.com.mx/xiaomi-redmi-watch-5-active-con-hyperos-bateria-18-dias-llamadas-ipx8-gary/p/MLM42113797#polycard_client=search-nordic&searchVariation=MLM42113797&wid=MLM2272253245&position=4&search_layout=stack&type=product&tracking_id=4681091f-51be-490a-9cbe-ae1bbcaaa592&sid=search"
+    },
+    {
+      "id": "gadget2",
+      "nombre": "Apple Watch",
+      "precio": "$10,361",
+      "descripcion": "Registra todos tus movimientos con los círculos de Actividad, que puedes personalizar de acuerdo a tu estilo de vida.",
+      "imagenPrincipal": "https://http2.mlstatic.com/D_NQ_NP_2X_742259-MLA79317271645_092024-F.webp",
+      "imagenesExtras": [
+        "https://http2.mlstatic.com/D_NQ_NP_2X_933098-MLA79076497866_092024-F.webp",
+        "https://http2.mlstatic.com/D_NQ_NP_2X_847245-MLA79317203185_092024-F.webp",
+        "https://http2.mlstatic.com/D_NQ_NP_2X_839941-MLA79076497850_092024-F.webp"
+      ],
+      "linkCompra": "https://www.mercadolibre.com.mx/apple-watch-series-10-gps-caja-de-aluminio-negro-azabache-de-46-mm-correa-loop-deportiva-color-tinta-distribuidor-autorizado/p/MLM1040694312?pdp_filters=item_id:MLM2153653107#wid=MLM2153653107&sid=search&is_advertising=true&searchVariation=MLM1040694312&backend_model=search-backend&position=1&search_layout=stack&type=pad&tracking_id=a0c7bc75-3ded-4adf-b6d9-f0f7025f712b&is_advertising=true&ad_domain=VQCATCORE_LST&ad_position=1&ad_click_id=ZmMwYzFlMzQtZDk4Mi00MGJmLWI4YjItZTc3MTY1NjgxYWQ3"
+    },
+    {
+      "id": "gadget3",
+      "nombre": "Audifonos",
+      "precio": "$1,999",
+      "descripcion": "Permanece siempre en el centro de la acción estés donde estés.",
+      "imagenPrincipal": "https://http2.mlstatic.com/D_NQ_NP_2X_603626-MLM84327461665_052025-F-audifonos-motorola-buds-plus-sound-by-bose-con-caja-abiert.webp",
+      "imagenesExtras": [
+        "https://http2.mlstatic.com/D_NQ_NP_2X_806699-MLM84327530937_052025-F-audifonos-motorola-buds-plus-sound-by-bose-con-caja-abiert.webp",
+        "https://http2.mlstatic.com/D_NQ_NP_2X_727814-MLM84327608921_052025-F-audifonos-motorola-buds-plus-sound-by-bose-con-caja-abiert.webp",
+        "https://http2.mlstatic.com/D_NQ_NP_2X_915360-MLM84327481353_052025-F-audifonos-motorola-buds-plus-sound-by-bose-con-caja-abiert.webp"
+      ],
+      "linkCompra": "https://articulo.mercadolibre.com.mx/MLM-2301035935-audifonos-motorola-buds-plus-sound-by-bose-con-caja-abiert-_JM?searchVariation=183526165830#polycard_client=search-nordic&searchVariation=183526165830&position=30&search_layout=grid&type=item&tracking_id=40aa7702-bf44-45f5-84d6-1c845b1c6b9d"
+    },
+    {
+      "id": "gadget4",
+      "nombre": "Power Bank",
+      "precio": "$326",
+      "descripcion": "Tecnología Qualcomm 3.0 de carga rápida un algoritmo que permite a un dispositivo móvil determinar que potencia requerir de la batería portátil.",
+      "imagenPrincipal": "https://http2.mlstatic.com/D_NQ_NP_2X_688755-MLU78974555853_092024-F.webp",
+      "imagenesExtras": [
+        "https://http2.mlstatic.com/D_NQ_NP_2X_864777-MLU78974516621_092024-F.webp",
+        "https://http2.mlstatic.com/D_NQ_NP_2X_670786-MLU78738898002_092024-F.webp",
+        "https://http2.mlstatic.com/D_NQ_NP_2X_794971-MLU78974555915_092024-F.webp"
+      ],
+      "linkCompra": "https://www.mercadolibre.com.mx/power-bank-inalambrica-magnetico-pd-225w-bateria-portatil-10000mah-carga-super-rapida-compatible-con-magsafe-u-volt/p/MLM40292791#polycard_client=recommendations_vip&reco_backend=ranker_compl&reco_model=retrieval-ranker-complementarios&reco_client=vip&reco_item_pos=3&reco_backend_type=low_level&reco_id=e82dee1c-b34d-4364-9c16-89ae33c02db1&wid=MLM3348590314&sid=recos"
+    },
+    {
+      "id": "gadget5",
+      "nombre": "Soporte",
+      "precio": "$251",
+      "descripcion": "Soporte de cargador de coche inalámbrico, soporte para teléfono de rejilla de ventilación de aire, 10 W Qi, carga rápida para coche.",
+      "imagenPrincipal": "https://http2.mlstatic.com/D_NQ_NP_2X_839050-CBT45290290402_032021-F-soporte-para-telefono-movil-de-coche-de-carga-inalambrica.webp",
+      "imagenesExtras": [
+        "https://http2.mlstatic.com/D_NQ_NP_2X_944347-CBT45290290398_032021-F-soporte-para-telefono-movil-de-coche-de-carga-inalambrica.webp",
+        "https://http2.mlstatic.com/D_NQ_NP_2X_607035-CBT45290290400_032021-F-soporte-para-telefono-movil-de-coche-de-carga-inalambrica.webp",
+        "https://http2.mlstatic.com/D_NQ_NP_2X_691119-CBT45290290396_032021-F-soporte-para-telefono-movil-de-coche-de-carga-inalambrica.webp"
+      ],
+      "linkCompra": "https://articulo.mercadolibre.com.mx/MLM-894891856-soporte-para-telefono-movil-de-coche-de-carga-inalambrica-_JM#polycard_client=recommendations_vpp-cbt&reco_backend=vpp_cbt_retrieval_system&reco_model=rk_ent_v2_retsys_org_cbt&reco_client=vpp-cbt&reco_item_pos=4&reco_backend_type=low_level&reco_id=b09ad16d-365d-4710-a6fa-a414cf126aba"
+    },
+    {
+      "id": "gadget6",
+      "nombre": "Base carga",
+      "precio": "$533",
+      "descripcion": "Base De Carga Inalámbrica 3 En 1 Para iPhone Magsafe Color Negro",
+      "imagenPrincipal": "https://http2.mlstatic.com/D_NQ_NP_2X_955308-MLA80214247681_102024-F.webp",
+      "imagenesExtras": [
+        "https://http2.mlstatic.com/D_NQ_NP_2X_756972-MLU76185827632_052024-F.webp",
+        "https://http2.mlstatic.com/D_NQ_NP_2X_728899-MLA79959795168_102024-F.webp",
+        "https://http2.mlstatic.com/D_NQ_NP_2X_702151-MLU76185818208_052024-F.webp"
+      ],
+      "linkCompra": "https://www.mercadolibre.com.mx/base-de-carga-inalambrica-3-en-1-para-iphone-magsafe-color-negro/p/MLM36932078#polycard_client=search-nordic&searchVariation=MLM36932078&backend_model=search-backend&wid=MLM2068737669&position=4&search_layout=grid&type=product&tracking_id=76626e7f-3163-4a11-a2cb-14b37694e0df&sid=search"
+    }
+  ]
+}

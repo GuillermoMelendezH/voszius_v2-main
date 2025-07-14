@@ -9,31 +9,36 @@
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
   <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js" integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r" crossorigin="anonymous"></script>
-  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/js/bootstrap.min.js" integrity="sha384-7qAoOXltbVP82dhxHAUje59V5r2YsVfBafyUDxEdApLPmcdhBPg1DKg1ERo0BZlK" crossorigin="anonymous"></script>
-  <style>
-  .card-img-top {
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/js/bootstrap.min.js" integrity="sha384-7qAoOXltbVP82dhxHAUje59V5r2YsVfBafyUDxEdApLPmcdhBPg1DKg1ERo0BZlK" crossorigin="anonymous"></script>
+<style>
+  .carousel-img {
     width: 100%;
-    height: 180px; /* o el valor que desees */
+    height: 400px; /* o la altura deseada del carrusel */
     object-fit: contain;
-    background-color: #f8f9fa; /* Color de fondo neutro para los espacios vacíos */
-    padding: 10px; /* Opcional: mejora la presentación visual */
-  }
-  
-  .comic-relief-regular {
-    font-family: "Comic Relief", system-ui;
-    font-weight: 400;
-    font-style: normal;
+    background-color: #f8f9fa; /* color de fondo opcional si hay espacios vacíos */
   }
 
-  .comic-relief-bold {
-    font-family: "Comic Relief", system-ui;
-    font-weight: 700;
-    font-style: normal;
+  /* Estilo para el botón "Comprar en Mercado Libre" */
+  #boton-comprar {
+    background-color: #ffe600;
+    color: #333; /* Texto oscuro para buen contraste */
+    border: none;
+    font-weight: bold;
+    padding: 10px 20px;
+    border-radius: 4px;
+    transition: background-color 0.3s ease;
+    text-decoration: none;
+    display: inline-block;
   }
-  </style>
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Comic+Relief:wght@400;700&display=swap" rel="stylesheet">
+
+  #boton-comprar:hover {
+    background-color: #fff066; /* Amarillo más claro */
+    color: #111;
+  }
+</style>
+
+
+
 </head>
 <header>
   <nav class="navbar navbar-dark bg-dark fixed-top">
@@ -57,171 +62,113 @@
           </li>
           <li class="nav-item">
             <svg xmlns="http://www.w3.org/2000/svg" height="48px" viewBox="0 -960 960 960" width="48px" fill="#75FB4C"><path d="M40-120v-60h880v60H40Zm100-120q-24 0-42-18t-18-42v-480q0-24 18-42t42-18h680q24 0 42 18t18 42v480q0 24-18 42t-42 18H140Zm0-60h680v-480H140v480Zm0 0v-480 480Z"/></svg>
-            <a class="nav-link" href="#computadoras-lista">Computadoras</a>
+            <a class="nav-link" href="index.html#computadoras-lista">Computadoras</a>
           </li>
           <li class="nav-item">
             <svg xmlns="http://www.w3.org/2000/svg" height="48px" viewBox="0 -960 960 960" width="48px" fill="#75FB4C"><path d="M140-260h680v-280H140v280Zm540.12-90q20.88 0 35.38-14.62 14.5-14.62 14.5-35.5 0-20.88-14.62-35.38-14.62-14.5-35.5-14.5-20.88 0-35.38 14.62-14.5 14.62-14.5 35.5 0 20.88 14.62 35.38 14.62 14.5 35.5 14.5ZM880-600h-85L695-700H265L165-600H80l142-142q8-8 19.28-13 11.28-5 23.72-5h430q12.44 0 23.72 5T738-742l142 142ZM140-200q-24.75 0-42.37-17.63Q80-235.25 80-260v-340h800v340q0 24.75-17.62 42.37Q844.75-200 820-200H140Z"/></svg>
-            <a class="nav-link" href="#almacenamiento-lista">Almacenamiento</a>
+            <a class="nav-link" href="index.html#almacenamiento-lista">Almacenamiento</a>
           </li>
           <li class="nav-item">
             <svg xmlns="http://www.w3.org/2000/svg" height="48px" viewBox="0 -960 960 960" width="48px" fill="#75FB4C"><path d="M193-120q-12 0-21-9t-9-21v-42h-13q-45.83 0-77.92-32.08Q40-256.17 40-302v-244q0-51 31-77.5t73-26.5v-86q0-46 29-75t75-29h465q46 0 74.5 29t28.5 75v86q42 0 73 26.5t31 77.5v244q0 45.83-32.08 77.92Q855.83-192 810-192h-13v42q0 12-9 21t-21 9q-12 0-21-9t-9-21v-42H223v42q0 12-9 21t-21 9Zm-43-132h660q20 0 35-15t15-35v-244q0-20-12-32t-32-12q-20 0-32 12t-12 32v176H188v-176q0-20-12-32t-32-12q-20 0-32 12t-12 32v244q0 20 15 35t35 15Zm98-178h464v-116q0-31 14-51.5t30-32.5v-106q0-20-12-32t-31.74-12H247.74Q228-780 216-768t-12 32v106q16 12 30 32.5t14 51.5v116Zm232 0Zm0 178Zm0-118Z"/></svg>
-            <a class="nav-link" href="#sillas-lista">Sillas</a>
+            <a class="nav-link" href="index.html#sillas-lista">Sillas</a>
           </li>
           <li class="nav-item">
             <svg xmlns="http://www.w3.org/2000/svg" height="48px" viewBox="0 -960 960 960" width="48px" fill="#75FB4C"><path d="M80-240v-480h800v480h-60v-100H630v100h-60v-420H140v420H80Zm550-320h190v-100H630v100Zm0 160h190v-100H630v100Z"/></svg>
-            <a class="nav-link" href="#escritorios-lista">Escritorios</a>
+            <a class="nav-link" href="index.html#escritorios-lista">Escritorios</a>
           </li>
           <li class="nav-item">
             <svg xmlns="http://www.w3.org/2000/svg" height="48px" viewBox="0 -960 960 960" width="48px" fill="#75FB4C"><path d="M360-500v-60h240v60H360Zm40 120v-60h160v60H400Zm11-440h138-138Zm0 680h138-138Zm-45 60-47-171q-55-35-87-95t-32-134q0-74 32-134.5t87-94.5l47-171h228l47 171q55 34 87 94.5T760-480q0 74-32 134t-87 95L594-80H366Zm114-180q92 0 156-64t64-156q0-92-64-156t-156-64q-92 0-156 64t-64 156q0 92 64 156t156 64Zm-87-484q23-7 44.5-10.5T480-758q21 0 42.5 3.5T567-744l-18-76H411l-18 76Zm18 604h138l18-76q-23 6-44.5 9.5T480-203q-21 0-42.5-3.5T393-216l18 76Z"/></svg>
-            <a class="nav-link" href="#gadgets-lista">Gadgets</a>
+            <a class="nav-link" href="index.html#gadgets-lista">Gadgets</a>
           </li>
         </ul>
-      <style>
-  html {
-    scroll-padding-top: 90px; /* Altura de tu navbar fijo */
-  }
-</style>
-
+      
       </div>
     </div>
   </div>
 </nav>
 </header>
-<body style="
-  background-image: url('https://static.vecteezy.com/system/resources/previews/002/184/697/non_2x/abstract-blue-circuit-technology-background-free-vector.jpg');
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: cover;
-  background-attachment: fixed;
-  color: white;">
-
-  <!-- SECTIONS DE PRODUCTOS -->
-   
-  <div class="container">
-    <section style="background-image: url(static/body/network.jpg); color: #ffffff;">
-     <h2 style="text-align: center; margin-top: 150px;" id="saludo" class="comic-relief-bold">Bienvenido a nuestra Tienda <br> Un universo tecnológico</h2>
-     <br>
-     <br>
-     <div style="margin-left: 20px; margin-right: 20px;">
-      <div class="row">
-        <div class="col-sm-4 mb-3 mb-sm-0">
-          <h1 class="card-title" style="color: yellow;">20% de descuento <br> en toda la tienda</h1>
-        </div>
-        <style>
-          .logo-pago {
-            height: 100px;
-            filter: drop-shadow(0 0 2px white)
-                    drop-shadow(0 0 4px white)
-                    drop-shadow(0 0 6px white); /* Simula contorno blanco */
-          }
-        </style>
-        <div class="col-sm-8 text-end">
-          <strong>Con todos los medios de pago</strong><br>
-          <img src="static/icon/logo_paypal.png" height="100" class="logo-pago" alt="PayPal">
-          <img src="static/icon/webpay_icon.png" height="100" class="logo-pago" alt="WebPay">
+<body>
+<br>
+<br>
+<br>
+<br>
+<br>
+  <div class="container mt-5">
+    <div class="row">
+      <!-- Carrusel -->
+      <div class="col-md-6">
+        <div id="carouselProducto" class="carousel slide" data-bs-ride="carousel">
+          <div class="carousel-inner" id="imagenes-carousel">
+            <!-- Imágenes aquí -->
+          </div>
+          <button class="carousel-control-prev" type="button" data-bs-target="#carouselProducto" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon"></span>
+          </button>
+          <button class="carousel-control-next" type="button" data-bs-target="#carouselProducto" data-bs-slide="next">
+            <span class="carousel-control-next-icon"></span>
+          </button>
         </div>
       </div>
-     </div>
-      <br>
-      <br>
-      <br>
-      <br>
-    </section>
-    <br>
-    <br>
+
+      <!-- Detalles -->
+      <div class="col-md-6">
+        <h2 id="producto-nombre"></h2>
+        <p id="producto-descripcion"></p>
+        <h4 id="producto-precio" class="text-success"></h4>
+        <a id="boton-comprar" href="#" class="btn btn-primary mt-3" target="_blank">Comprar en Mercado Libre</a>
+      </div>
+    </div>
   </div>
-    <!-- CATEGORÍA EJEMPLO: COMPUTADORAS -->
+
 <script>
-  const categorias = ['computadoras', 'almacenamiento', 'sillas', 'escritorios', 'gadgets'];
+  const urlParams = new URLSearchParams(window.location.search);
+  const idProducto = urlParams.get('id');
 
-  fetch('productos.json')
-    .then(res => res.json())
-    .then(data => {
-      categorias.forEach(cat => {
-        const contenedor = document.getElementById(`${cat}-lista`);
-        if (data[cat]) {
-          data[cat].slice(0, 6).forEach(prod => {
-            const card = document.createElement('div');
-            card.className = 'col-md-2 mb-4';
-            card.innerHTML = `
-              <div class="card h-100 shadow-sm">
-                <img src="${prod.imagenPrincipal}" class="card-img-top" alt="${prod.nombre}">
-                <div class="card-body">
-                  <h5 class="card-title">${prod.nombre}</h5>
-                  <p class="fw-bold">${prod.precio}</p>
-                  <a href="producto.html?id=${prod.id}" class="btn btn-primary">Ver más</a>
-                </div>
-              </div>`;
-            contenedor.appendChild(card);
+  function cargarProducto(id) {
+    fetch('productos.json')
+      .then(res => res.json())
+      .then(data => {
+        let productoEncontrado = null;
+
+        // Buscar en todas las categorías
+        for (const categoria in data) {
+          const productos = data[categoria];
+          const producto = productos.find(p => p.id === id);
+          if (producto) {
+            productoEncontrado = producto;
+            break;
+          }
+        }
+
+        if (productoEncontrado) {
+          document.getElementById('producto-nombre').textContent = productoEncontrado.nombre;
+          document.getElementById('producto-descripcion').textContent = productoEncontrado.descripcion;
+          document.getElementById('producto-precio').textContent = productoEncontrado.precio;
+          document.getElementById('boton-comprar').href = productoEncontrado.linkCompra;
+
+          const carrusel = document.getElementById('imagenes-carousel');
+          [productoEncontrado.imagenPrincipal, ...productoEncontrado.imagenesExtras].forEach((img, index) => {
+            const div = document.createElement('div');
+            div.className = 'carousel-item' + (index === 0 ? ' active' : '');
+            div.innerHTML = `<img src="${img}" class="d-block w-100 carousel-img" alt="Imagen del producto">`;
+
+            carrusel.appendChild(div);
           });
+        } else {
+          document.querySelector('.container').innerHTML = '<p class="text-danger">Producto no encontrado.</p>';
         }
-      });
+      })
+      .catch(error => console.error('Error al cargar producto:', error));
+  }
 
-      // Después de cargar todo, hacer scroll si hay un hash
-      if (location.hash) {
-        const target = document.querySelector(location.hash);
-        if (target) {
-          target.scrollIntoView({ behavior: 'smooth' });
-        }
-      }
-    })
-    .catch(err => console.error('Error al cargar productos:', err));
+  if (idProducto) cargarProducto(idProducto);
 </script>
 
 
-
-  
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
-
-   <!-- SECCIONES DE PRODUCTOS -->
-  <div class="container">
-    <h2 id="index" class="text-center mb-4">Bienvenido a la Tienda</h2>
-
-    <section id="computadoras">
-      <h3>Computadoras</h3>
-      <div class="row" id="computadoras-lista"></div>
-    </section>
-    <section id="almacenamiento">
-      <h3>Almacenamiento</h3>
-      <div class="row" id="almacenamiento-lista"></div>
-    </section>
-    <section id="sillas">
-      <h3>Sillas</h3>
-      <div class="row" id="sillas-lista"></div>
-    </section>
-    <section id="escritorios">
-      <h3>Escritorios</h3>
-      <div class="row" id="escritorios-lista"></div>
-    </section>
-    <section id="gadgets">
-      <h3>Gadgets</h3>
-      <div class="row" id="gadgets-lista"></div>
-    </section>
-  </div>
-
-<!-- BOTÓN FLOTANTE WHATSAPP -->
-<style>
-  .floating-whatsapp {
-    position: fixed;
-    bottom: 50px;
-    right: 20px; /* Alineado a la derecha */
-    z-index: 9999;
-  }
-
-  .floating-whatsapp img {
-    width: 60px;
-    height: 60px;
-  }
-</style>
-
-<a class="floating-whatsapp" href="https://wa.me/1234567890?text=Hola%2C%20solicito%20m%C3%A1s%20informaci%C3%B3n%20por%20favor" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/WhatsApp_icon.png" alt="WhatsApp"/>
-</a>
-
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
 </body>
-
-
-<!-- Footer -->
+<br>
+<br>
 <footer>
   <section style="background-color: #34140a; padding: 20px;">
     <div class="container">
@@ -251,5 +198,4 @@
     </div>
   </section>
 </footer>
-
 </html>
